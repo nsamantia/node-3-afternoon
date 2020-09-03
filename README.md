@@ -263,7 +263,8 @@ Note: SQLTabs may highlight `name` and `description`. Use them as your column na
 
 <br />
 
-Now that we have a method of connecting to our database and have an instance ready to go on `app`, we are ready to start creating the `sql` files that will interact with our database and a `product` table. Let's begin by creating a `product` table that follows the schema in the summary. The final syntax will look like:
+Now that we have a method of connecting to our database and have an instance ready to go on `app`, we are ready to start creating the `sql` files that will interact with 
+our database and a `product` table. Let's begin by creating a `product` table that follows the schema in the summary. The final syntax will look like:
 
 ```sql
 CREATE TABLE product (
